@@ -1,1 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="Download The Spark Journal — a printable self care journal for healing, gratitude, and growth. Created by Designs by Nana." />
+<meta name="keywords" content="printable self care journal, healing journal, gratitude journal printable, mindfulness journal, mental health journal for women" />
+<meta name="author" content="Designs by Nana" />
+<title>The Spark Journal | Printable Self Care Journal</title>
+<style>
+body {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin: 0;
+padding: 0;
+background-color: #fffaf7;
+color: #333;
+}
+header {
+background-color: #fceeea;
+text-align: center;
+padding: 4rem 1rem 2rem;
+}
+header h1 {
+font-size: 2.5rem;
+margin: 0;
+}
+header p {
+font-size: 1.2rem;
+margin-top: 0.5rem;
+color: #996666;
+}
+nav {
+text-align: center;
+margin-top: 1rem;
+}
+nav a {
+margin: 0 1rem;
+color: #996666;
+text-decoration: none;
+font-weight: bold;
+}
+nav a:hover {
+text-decoration: underline;
+}
+section {
+padding: 2rem 1rem;
+max-width: 800px;
+margin: 0 auto;
+}
+.btn {
+display: inline-block;
+background-color: #dca89b;
+color: white;
+padding: 0.8rem 1.5rem;
+text-decoration: none;
+border-radius: 8px;
+font-weight: bold;
+margin-top: 1rem;
+}
+.btn:hover {
+background-color: #c98271;
+}
+form {
+background: #fceeea;
+padding: 1.5rem;
+border-radius: 12px;
+text-align: center;
+margin-top: 2rem;
+}
+form input[type="email"] {
+padding: 0.7rem;
+border: 1px solid #ccc;
+border-radius: 6px;
+width: 70%;
+margin-bottom: 1rem;
+}
+form button {
+background-color: #dca89b;
+color: white;
+padding: 0.7rem 1.5rem;
+border: none;
+border-radius: 8px;
+font-weight: bold;
+cursor: pointer;
+}
+footer {
+background-color: #fceeea;
+text-align: center;
+padding: 2rem 1rem;
+font-size: 0.9rem;
+color: #666;
+}
+footer a {
+color: #996666;
+text-decoration: none;
+margin: 0 0.5rem;
+}
+footer a:hover {
+text-decoration: underline;
+}
+</style>
+</head>
+<body>
+
+<header>
+<h1>The Spark Journal</h1>
+<p>Your printable self care journal for healing, gratitude & growth ✨</p>
+<nav>
+<a href="#about">About</a>
+<a href="#details">What's Inside</a>
+<a href="#shop">Buy Now</a>
+<a href="#contact">Contact</a>
+</nav>
+<a href="#shop" class="btn">Download Now</a>
+</header>
+
+<section id="about">
+<h2>About Me</h2>
+<p>I created "The Spark Journal" because I really needed something like this myself. I've struggled a lot, and there were times I felt super alone, like no one understood what I was going through. I realized that writing things down, reflecting, and even just tracking how I was feeling helped me so much. I wanted to create a safe space for others who might be feeling lost or trying to figure things out, just like I was. It's a starter edition because I know healing is a journey, and this is just a way to begin.</p>
+<p>I'm 16, and honestly, life hasn't always been easy. I've faced a lot of challenges and had moments where I just wanted to give up. But through all that, I discovered the power of looking inward, understanding my emotions, and finding things to be grateful for, even on tough days. The journey to "glowing up" for me wasn't about appearance; it was about internal growth and finding my true self. This journal is a reflection of the tools and mindset shifts that helped me get to a better place.</p>
+<p>When people read "The Spark Journal," I want them to feel seen and heard. That's probably the most important thing. I want them to know that it's okay to be "still trying", and that even when it's hard, they shouldn't give up. I hope they feel encouraged, knowing that the "spark inside" them is still burning. My biggest hope is that they feel empowered to release what's holding them back, reflect on their journey, and spark their own healing process. I want them to realize they are capable of incredible growth and that their feelings are valid.</p>
+<p>The vibe I want to send is one of unconditional love and unwavering support. It's a message that says, "You are enough, just as you are, and you're capable of becoming even more." I want it to feel like a warm hug and a gentle nudge forward. The special message is that healing isn't linear, but every step forward, no matter how small, is a victory. It's about self-compassion, recognizing your uniqueness, and building a life that truly brings you joy. It's from me, Nana, with a whole lot of love.</p>
+</section>
+
+<section id="details">
+<h2>What's Inside</h2>
+<ul>
+<li>🧠 Thought Dump Pages</li>
+<li>💬 Affirmation of the Day (Baddie Edition)</li>
+<li>📌 Trigger Tracker</li>
+<li>💅🏽 Confidence Boosters</li>
+<li>🧍🏽‍♀️ “Things That Make Me Feel Like Me”</li>
+<li>💖 Personal message from Nana</li>
+</ul>
+</section>
+
+<section id="shop">
+<h2>Download Your Copy</h2>
+<p>Ready to start your healing journey? Pay $7 using Cash App below and then email me to get your journal.</p>
+<a href="https://cash.app/$PrincessNana1830" class="btn" target="_blank">Pay $7 with Cash App</a>
+<p style="margin-top: 1rem;">
+After paying, please email me at <a href="mailto:support@designsbynana.com">support@designsbynana.com</a> with your Cash App username or transaction info, and I will send you the journal right away.
+</p>
+
+<form action="#" method="POST">
+<h3>Get updates from me 💌</h3>
+<input type="email" name="email" placeholder="Enter your email" required />
+<br />
+<button type="submit">Sign Up</button>
+<p style="font-size: 0.8rem; color: #555;">No spam. Just love and updates.</p>
+</form>
+</section>
+
+<section id="contact">
+<h2>Contact Me</h2>
+<p>If you have any questions, email me at <a href="mailto:support@designsbynana.com">support@designsbynana.com</a></p>
+</section>
+
+<section id="privacy">
+<h2>Privacy Policy</h2>
+<p>Your privacy is very important to me. Any email addresses collected are only used to send occasional updates or respond to questions. I do not sell or share your personal information with anyone. This website may collect basic usage info like how many people visit, but it’s anonymous. By using this site, you agree to this policy.</p>
+</section>
+
+<section id="terms">
+<h2>Terms of Use</h2>
+<p>By purchasing The Spark Journal, you agree that it is for personal use only and cannot be resold or redistributed. Because this is a digital download, all sales are final and no refunds will be issued. Please read the full description before purchasing. Thank you for respecting my work!</p>
+</section>
+
+<footer>
+<p>&copy; 2025 Designs by Nana. All rights reserved.</p>
+<p>
+<a href="#privacy">Privacy Policy</a> |
+<a href="#terms">Terms of Use</a> |
+<a href="https://instagram.com/digitalsparkjournal" target="_blank">@digitalsparkjournal</a>
+</p>
+</footer>
+
+</body>
+</html>
 # spark-journal-site
